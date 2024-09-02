@@ -69,5 +69,5 @@ def process_folder(folder_path):
 
 
 # Replace this with the path to your folder containing the MP3 files
-folder_path = "/Users/p/Music/DJ_stuff/Slsk4TheHomies"
+folder_path = "/your/folder/path"
 process_folder(folder_path)
